@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Kaviya</h1>
-<h3 align="center">An aspiring data engineer!</h3>
+<h3 align="center">An aspiring data analyst/scientist!</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyakannan14&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyakannan14" /> </p>
 
-- 🔭 I’m currently working on [Data Engineering Projects](https://github.com/KaviyaKannan14/Data-Engineering-ML-projects)
+- 🔭 I’m currently working on [Data Science Projects](https://github.com/KaviyaKannan14/Data-Engineering-ML-projects)
 
-- 🌱 I’m currently learning **Apache Airflow and ML models**
+- 🌱 I’m currently learning **Deep Learning and ML models**
 
 - 📫 How to reach me **kannankaviya26@gmail.com**
 
